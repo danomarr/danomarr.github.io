@@ -5,7 +5,7 @@ date:   2015-12-31 10:38:24 -0800
 categories: review
 ---
 
-#### First, a word
+### First, a word
 
 So much has happened this year. Each January, I meditate on the year ahead, and a word strikes me to theme the year. My friend Maidson Ainley spurred me onto this habit. 2015 was the Year of Risk, and it took a turn I did not expect.
 
@@ -16,13 +16,15 @@ For most of my life, I have pushed hard to find a kind of objective truth that a
 What I have learned this year is more a remembering more than a revelation, a rediscovery more than a new idea, and a reversion more than a refinement. In many ways, I feel more like there is an ageless child in me I am meeting for the first time in a long while. I am very happy to see him again. This is my reflection on the year that introduced he and I.
 
 
-#### Provoked into feeling
+### Provoked into feeling
 
 Attending [Hyper Island][hyperisland] changed me. I arrived at the school with a bit of self-importance and ambition to "get to the top" socially and professionally. I spent most of my energy trying to help others learn as opposed to learning myself. That didn't work! But I think I learned and changed. Today I hope I am a bit more present and humble. I hope I actually have learned some things (and not fooled myself into believing I did!), and I hope I am a bit more self-aware now than I used to be.
 
 I remember during the first week of school, I noticed I tried to separate myself from my classmates by imitating our program facilitators. Desperately, I clutched at a kind of security I was familiar with––associating myself with roles of authority––and leaving my own personal development behind in the meantime. I remember believing that ambition and achievement *were* personal development,  and that learning the most stuff and getting the respect of everyone else was the end goal. I believed self-discipline was more or less coercing, manipulating, or forcing my weak animal body and brain to behave as I was thought I was supposed to. When I failed, that only confirmed my lack of self-discipline. Now, after a year and some months of challenges to that way of thinking, I see things differently.
 
-**Personal mastery is understanding my self and my human nature, not improving it.**
+>
+> Personal mastery is understanding my Self and my human nature, not improving it.
+>
 
 What I have learned is my soul is already complete, and is full of natural curiosity and eagerness and aspiration on its own. Like a seed, all the forces of life and growth are already there. It only needs nurturing. The process is a discovery by removing the fetters and fears that keep my soul hidden from me.
 
@@ -33,11 +35,11 @@ I remember when my classmate Emily Ryan (who I respect a thoroughly, but I've ha
 That same question popped up again later, when my friend Daniel Dennerkrans pointed out I seemed to be following such a *rational* career path, but I was sacrificing something *passionate* by giving up my art. Jürgen Salenbacher said the same thing around the same time. I again thought about the potted plant in the suit of armor.
 
 
-#### What did I want?
+### What did I want?
 
 > "Man can do what he wills but he cannot will what he wills."
->
-> [*Arthur Schopenhauer*](https://en.wikiquote.org/wiki/Arthur_Schopenhauer)
+
+[Arthur Schopenhauer](https://en.wikiquote.org/wiki/Arthur_Schopenhauer)
 
 I couldn't decide because I could hardly feel the difference between one or the other. I decided the only way to find out, was to touch my feeling so I *could* feel what I wanted. I wanted to water the little plant in the armor and give it sunlight.
 
@@ -52,7 +54,7 @@ At the same time, I felt my concern for what others thought of me slacken its gr
 Still, the idea that freedom comes from discipline is not lost on me. I know that within boundaries we are much better at exercising freedom and autonomy and creativity. But what has changed is how I see discipline. It is not punishment, but practice. It is not hostile against the host, but against enemies when needed. Understanding and expressing emotions are an important kind of social martial art to understanding the soul.
 
 
-#### Ebb and flow
+### Ebb and flow
 
 On my ride to Stockholm's airport, headed to Christmas in Colorado with my family where I am now, I felt angry. I felt frustrated because of how much of what I've learned this year that I felt I already lost. Things I experienced that were important to me, now gone, I couldn't recall. So I felt upset, and I cried. And after I was done, I felt a bit better, and also resolved. I want to cherish the things important to me, and not let them go just because all things return to dust. But I also see that I haven't lost those learnings––they are hibernating, like most things do in winter––they will bloom again in spring. They ebb and flow like the tide, and move like the phases of the moon. What I learned is now a part of me somewhere deeper, and I am living it subconsciously. The hard skills I learned? Those too are in there somewhere.
 

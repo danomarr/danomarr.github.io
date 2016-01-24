@@ -1,7 +1,7 @@
 # Site settings
 title: Dano Marr
 email: danomarr@gmail.com
-description: My digital journal. Where I write about things I find interesting, show how my brain works, philosophize about life and society, and try finding better questions to ask.
+description: My digital journal. Where I write about things I find interesting like art, organization design, and Dungeons &amp; Dragons. As a discipline, I keep trying to find better questions to ask.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://danomarr.gibhub.io" # the base hostname & protocol for your site
 twitter_username: danomarr
