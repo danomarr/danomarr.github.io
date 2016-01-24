@@ -189,11 +189,25 @@
 }
 
 .post-link {
-    display: block;
-    font-size: 27px;
+    display: inline-block;
+    font-weight: $bold-font-weight;
 }
 
+.side-one {
+    display: inline-block;
+    width: 49%;
+    max-height: 100%;
+    vertical-align:top;
+    margin-bottom: $spacing-unit * 2;
+}
 
+.side-two {
+    display: inline-block;
+    width: 49%;
+    max-height: 100%;
+    vertical-align:top;
+    margin-bottom: $spacing-unit * 2;
+}
 
 /**
  * Posts

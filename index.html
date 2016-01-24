@@ -3,8 +3,23 @@ layout: default
 ---
 
 <div class="home">
+<div class="side-one">
+<h1 class="page-heading">
+  I like making<br />
+  things easier for people.
+</h1>
 
-  <h1 class="page-heading">Entries</h1>
+<p>A big kid who loves listening and sketching.<br />
+I have some projects I'm proud of, and others in progress. </br>
+I learned some magic at Hyper Island and how to paint at USC.</br>
+
+<p>If you want to connect, hit me with an email.</p>
+
+<p>Currently living in beautiful Stockholm.</p>
+</div>
+
+<div class="side-two">
+  <h3 class="page-heading">Writing</h3>
 
   <ul class="post-list">
     {% for post in site.posts %}
@@ -18,6 +33,6 @@ layout: default
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
 
 </div>
