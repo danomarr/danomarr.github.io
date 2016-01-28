@@ -199,6 +199,11 @@
     max-height: 100%;
     vertical-align:top;
     margin-bottom: $spacing-unit * 2;
+
+    @include media-query($on-laptop) {
+      display: block;
+      width: 100%;
+    }
 }
 
 .side-two {
@@ -207,6 +212,11 @@
     max-height: 100%;
     vertical-align:top;
     margin-bottom: $spacing-unit * 2;
+
+    @include media-query($on-laptop) {
+      display: block;
+      width: 100%;
+    }
 }
 
 /**
