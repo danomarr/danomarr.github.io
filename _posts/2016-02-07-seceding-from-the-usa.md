@@ -5,6 +5,8 @@ date:   2016-02-07 10:19:24 -0800
 categories: business, tech, politics
 ---
 
+# DRAFT
+
 I just finished watching Scott Galloway talk about the latest activity of the "Four Horsemen"––meaning Google, Apple, Facebook, and Amazon. Of course, these businesses are unprecedented in their growth and speed of expansion. Combined they have almost as much economic power as western Europe. Include Alibaba (China) and those five together out-power Russia. At the same time, these companies have established their own healthcare and internal infrastructure––in part to be competitive, but more likely so they can play by their own rules. Galloway makes the assertion that this gang of four is trying to achieve through tax evasion what the South tried to achieve in the 19th century. Knowing how Google (or Alphabet) is working on extending its reach into every waking moment of our lives, it is not a far leap to imagine a world where Google services are omnipresent. Their investments range from driverless cars (obvious) to water (less obvious) and ____________ (what else IS Google up to?) The conclusions I leap to from these activities, is that Google wants to pre-empt the slow-moving tortoise that is the US government and set up a new island government that runs over the internet (what if Brin and co have explicitly said so?)
 
 In this world, people would vote with their attention online, choosing which internationality they would pledge allegiance to––one of the four (five, if you're in Asia) horsemen?
