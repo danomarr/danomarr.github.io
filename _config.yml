@@ -1,10 +1,12 @@
 # Site settings
 title: Dano Marr
+name: Dano's Journal
 email: danomarr@gmail.com
-description: My digital journal where I let my hobbies and my work collide. I'm doing this as a way to make my thinking public, to express myself honestly, and to find new ways of seeing with consistency.
+description: Here I let my hobbies and my work collide in a mashup of opinions on technology, human behavior, and a dash of sword-and-sorcery. My aim is to explore new ways of seeing and thinking—and this digital journal is designed that I do so in public.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://danomarr.gibhub.io" # the base hostname & protocol for your site
+url: "http://danomarr.com" # the base hostname & protocol for your site
 twitter_username: danomarr
+linkedin_username: danomarr
 github_username:  danomarr
 
 # Build settings
