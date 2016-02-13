@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Organizations, people, and computers are gardens, not machines."
+title:  "People and computers are gardens, not machines."
 date:   2016-02-11 08:11:23 -0800
 categories: systems, org-design
 ---
