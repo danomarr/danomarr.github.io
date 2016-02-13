@@ -16,3 +16,13 @@ My favorite podcasts (as of today) are:
 - Philosophize This with Steven West. Too many favorites, but here are four: [this one][pt-insecurity] on insecurity, [this one][pt-limits] on the limits of knowledge, [this one][pt-argument] on how to win an argument, and [this one][pt-hegel] one Hegel's definition of God.
 
 So maybe, I find the best questions have unclear answers. They're ones that push me to keep exploring, anyway.
+
+<!-- Links -->
+[paul-muldoon]: http://www.onbeing.org/program/paul-muldoon-a-conversation-with-verse/8276
+[david-steindl-rast]: http://www.onbeing.org/program/david-steindl-rast-anatomy-of-gratitude/8361
+[qotd]: http://www.earwolf.com/show/question-of-the-day/
+[freakonomics]: http://freakonomics.com/podcast/americas-education-problem-really-just-teacher-problem-freakonomics-radio-rebroadcast/
+[pt-insecurity]: http://www.philosophizethis.org/insecurity/
+[pt-argument]: http://www.philosophizethis.org/hegels-god/
+[pt-limits]: http://www.philosophizethis.org/limitations-of-knowledge/
+[pt-hegel]: http://www.philosophizethis.org/how-to-win-an-argument-pt-1/
