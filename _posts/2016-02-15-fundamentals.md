@@ -7,7 +7,7 @@ categories: coding, martial arts, philosophy
 
 How are code and martial arts similar?
 
-To be clear: I am not an master of either. Being a master is knowing the right thing to do, at the right time, in the right measure. And mastery needs diligent, aspirational practice. Constantly.
+I am not an master of either. Being a master is knowing the right thing to do, at the right time, in the right measure. And mastery needs diligent, aspirational practice. Constantly.
 
 Both code and martial arts are a practice. By showing up, learning something new, and applying it, it sinks in and slowly becomes understood. You have learned a skill you can use in a similar situation later. This takes time.
 
