@@ -5,7 +5,7 @@ date:   2016-02-16 02:35:00 -0800
 categories: life
 ---
 
-I turn 27 today, and I've been asking myself—what is the important stuff happening in my life? What am I doing that matters? Am I boldly sharing who I am, making good and sincere and generous art? Where have I been holding back? Why do I willingly go to work everyday, unless I do what is important to me?
+I turn 27 today, and I've been asking myself—what is the important stuff happening in my life? What am I doing that matters? Am I boldly sharing who I am, making good and sincere and generous art? Where have I been holding back? Why do I willingly go to work everyday, unless I do what is important?
 
 I think of Pablo Picasso. At some point, his life became his art. Everything he did glowed *Picasso.* He lived his signature. Einstein too, a clever wit and imaginative observer of the secrets of the universe. What I like about Seth Godin is he is also 100% genuinely himself, though maybe not on the level of Picasso or Einstein. Every interest and speech of his exudes his rough-shod, tells-it-like-it-is style.
 
