@@ -4,7 +4,10 @@ name: Dano's Journal
 email: danomarr@gmail.com
 description: Here I let my hobbies and my work collide in a mashup of opinions on technology, human behavior, and a dash of sword-and-sorcery. My aim is to explore new ways of seeing and thinking—and this digital journal is designed that I do so in public.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://danomarr.com" # the base hostname & protocol for your site
+url: "http://danomarr.com/" # the base hostname & protocol for your site
+gems: [jekyll-paginate]
+paginate: 8
+paginate_path: "/writing/page:num/"
 twitter_username: danomarr
 linkedin_username: danomarr
 github_username:  danomarr
