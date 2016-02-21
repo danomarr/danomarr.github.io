@@ -2,7 +2,7 @@
 layout: post
 title:  "Birthday gifts"
 date:   2016-02-16 02:35:00 -0800
-categories: life
+categories: creativity
 ---
 
 I turn 27 today, and I've been asking myself—what is the important stuff happening in my life? What am I doing that matters? Am I boldly sharing who I am, making good and sincere and generous art? Where have I been holding back? Why do I willingly go to work everyday, unless I do what is important?

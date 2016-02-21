@@ -2,7 +2,7 @@
 layout: post
 title:  "Fundamentals"
 date:   2016-02-15 13:35:00 -0800
-categories: coding, martial arts, philosophy
+categories: coding, martial-arts
 ---
 
 How are code and martial arts similar?

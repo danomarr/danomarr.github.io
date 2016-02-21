@@ -2,7 +2,7 @@
 layout: post
 title:  "Original thinking"
 date:   2016-02-13 13:35:00 -0800
-categories: philosophy
+categories: creativity
 ---
 
 How can I have an original thought?

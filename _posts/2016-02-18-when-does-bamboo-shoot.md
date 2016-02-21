@@ -2,10 +2,10 @@
 layout: post
 title:  "When does bamboo shoot?"
 date:   2016-02-18 22:41:34 -0800
-categories: philosophy
+categories: life
 ---
 
-Do you know how they grow bamboo trees? They plant a seed, fertilize and water it all year. Nothing grows. Year two they fertilize and water it all year. Nothing grows. Year three they fertilize and water it all year. Nothing grows. Year four they fertilize and water it all year. Nothing grows. Year five, they fertilize and water it. Boom! The bamboo shoots up 90 feet in its fifth year. This is Ziglar's parable for what it takes to succeed. There is no payoff for a long, long, time…but in the end, the growth is explosive.
+Do you know how grow bamboo trees grow? They plant a seed, fertilize and water it all year. Nothing grows. Year two they fertilize and water it all year. Nothing grows. Year three they fertilize and water it all year. Nothing grows. Year four they fertilize and water it all year. Nothing grows. Year five, they fertilize and water it. Boom! The bamboo shoots up 90 feet in its fifth year. This is Ziglar's parable for what it takes to succeed. There is no payoff for a long, long, time…but in the end, the growth is explosive.
 
 So too with us, if we choose to develop the obvious, simple fundamental skills of bringing our best out of ourselves and each other.
 
