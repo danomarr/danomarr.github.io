@@ -6,7 +6,7 @@ description: Here I let my hobbies and my work collide in a mashup of opinions o
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://danomarr.com/" # the base hostname & protocol for your site
 gems: [jekyll-paginate]
-paginate: 8
+paginate: 12
 paginate_path: "/writing/page:num/"
 twitter_username: danomarr
 linkedin_username: danomarr
