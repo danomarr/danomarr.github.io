@@ -2,7 +2,7 @@
 title: Dano Marr
 name: Dano's Journal
 email: danomarr@gmail.com
-description: Here I try to practice the habit of writing and clarifying my thoughts. It is a mashup of observations on technology, design, human behavior, and a dash of sword-and-sorcery...but it is mostly a bunch of reminders for myself on how to be.
+description: Here I try to practice the habit of writing and clarifying my thoughts. It is a mashup of observations on technology, design, human behavior, and a dash of sword-and-sorcery...but it is mostly a bunch of meditations to remind me on how to be.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://danomarr.com/" # the base hostname & protocol for your site
 gems: [jekyll-paginate]
