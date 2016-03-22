@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Working in Public"
+title:  "Working in /Public"
 date:   2016-03-20 03:11:24 +0100
 categories: work
 ---
